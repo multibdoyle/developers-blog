@@ -3,13 +3,13 @@ module.exports = {
     title: `A New York City Diary`,
     description: `Eating, earning and burning through New York City '21`,
     author: `A New York City Diary`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    siteUrl: `https://github.com/multibdoyle/developers-blog`,
     social: {
-      twitter: `wang0nya`,
+      twitter: ``,
       facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      github: `multibdoyle`,
+      linkedin: `in/brendan-doyle-403ba028/`,
+      email: `bdoyle.core@gmail.com`,
     },
   },
   plugins: [
