@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
+    title: `A New York City Diary`,
+    description: `Eating, earning and burning through New York City '21`,
+    author: `A New York City Diary`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
       twitter: `wang0nya`,
